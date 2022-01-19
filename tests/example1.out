@@ -1,0 +1,28 @@
+Combien de sommets ?
+    Vertex 0 ?
+    Vertex 1 ?
+    Vertex 2 ?
+    Vertex 3 ?
+    Vertex 4 ?
+Combien de facettes ?
+    Face 0 ?
+    Face 1 ?
+    Face 2 ?
+    Face 3 ?
+    Face 4 ?
+    Face 5 ?
+
+La forme contient 5 sommets et 6 facettes.
+Le barycentre est : (0, 1.6, 0)
+
+Le sommet 000 appartient à 4 facettes : 000 001 003 004 
+Le sommet 001 appartient à 3 facettes : 001 004 005 
+Le sommet 002 appartient à 4 facettes : 000 001 002 005 
+Le sommet 003 appartient à 3 facettes : 000 002 003 
+Le sommet 004 appartient à 4 facettes : 002 003 004 005 
+Face 000 : aire = 4, normale = (0, 1, 0)
+Face 001 : aire = 4, normale = (0, 1, 0)
+Face 002 : aire = 3.464, normale = (0.5774, -0.5774, 0.5774)
+Face 003 : aire = 3.464, normale = (0.5774, -0.5774, -0.5774)
+Face 004 : aire = 3.464, normale = (-0.5774, -0.5774, -0.5774)
+Face 005 : aire = 3.464, normale = (-0.5774, -0.5774, 0.5774)

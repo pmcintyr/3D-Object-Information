@@ -1,0 +1,15 @@
+Combien de sommets ?
+    Vertex 0 ?
+    Vertex 1 ?
+    Vertex 2 ?
+Combien de facettes ?
+    Face 0 ?
+    Face 1 ?
+
+La forme contient 3 sommets et 1 facettes.
+Le barycentre est : (0, 0.3333, 0.3333)
+
+Le sommet 000 appartient à 1 facettes : 000 
+Le sommet 001 appartient à 2 facettes : 000 001 
+Le sommet 002 appartient à 2 facettes : 000 001 
+Face 000 : aire = 0.5, normale = (1, 0, 0)
