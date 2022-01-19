@@ -1,0 +1,2 @@
+# 3D-Object-Information
+L’objectif principal de ce programme est d’afficher des informations concernant la forme décrite par l’utilisateur. En particulier, nous souhaitons pouvoir afficher: • le nombre total de sommets et de facettes ; • le barycentre, c’est à dire la moyenne de tous les sommets ; • pour un sommet donné, le nombre de facettes auxquelles il appartient et leurs indices ; • pour une facette donnée, le vecteur normal à cette facette et son aire.
